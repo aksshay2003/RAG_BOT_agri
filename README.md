@@ -9,5 +9,5 @@ A simple GenAI chatbot that combines the power of retrieval-based search with ge
 
 🧾 Works with PDFs, text, CSVs, etc.
 
-🛠️ Built with modular components (retriever, generator, pipeline)
+
 
